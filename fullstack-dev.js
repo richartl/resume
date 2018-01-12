@@ -10,7 +10,7 @@
         "info": {
             "label": "FullStack Developer",
                 "characterClass": "Programmer & DevOps",
-                "brief": "**Full-stack software developer with 4+ years industry experience** specializing in back-end development and devops. Born and race in Texcoco, Mexico State, I enjoy play and follow college football and tocho, amateur guitar and drums player, mindfull and successfull books.",
+                "brief": "**Full-stack software developer with 5+ years industry experience** specializing in back-end development and devops. Born and race in Texcoco, Mexico State, I enjoy play and follow college football and flag football, amateur guitar and drums player, mindfull and successfull books.",
                 "quote": "My mind == universe, infinite and always in expantion"
         },
 
@@ -72,14 +72,43 @@
                 "description": "Bash Console Utility for learn english verbs",
                 "summary": "Bash console utility for learn english verbs",
                 "keywords": ["Bash", "Shell", "Education"]
+            },
+            {
+                "title": "Royal Licoreria a Domicilio",
+                "category": "commercial",
+                "role": "developer, tech lead, team lead",
+                "start": "2017-09",
+                "url": "https://getroyal.mx/",
+                "description": "Mobile app for deliver alcohol at CDMX",
+                "summary": "Platform for deliver alcohol with hibrid and native mobile apps",
+                "keywords": ["React Native", "Redux", "Node", "MySQL", "Loopback", "App", "IOs", "Android"]
+            },
+            {
+                "title": "Simulador Reto ENARM",
+                "category": "commercial",
+                "role": "developer, tech lead, team lead",
+                "start": "2017-09",
+                "url": "https://simulador-enarm.retoenarm.com/",
+                "description": "ENARM Simulator web",
+                "summary": "Simulator for ENARM test, this simulator helps to medics to study for ENARM test",
+                "keywords": ["React", "Redux", "Node", "MySQL", "Loopback", "Node", "Docker", "Docker Compose"]
+            },
+            {
+                "title": "Autounion",
+                "category": "commercial",
+                "role": "developer, tech lead, team lead",
+                "start": "2017-09",
+                "description": "Web Platform for sale car from agencies",
+                "summary": "This platform helps to agencies and customers to sell and find options for buy a car",
+                "keywords": ["React", "Redux", "Node", "PostgreSQL", "Loopback", "Node", "Docker", "Docker Compose", "Django"]
             }
         ],
 
         "social": [
 
             {
-                "label": "GitHub",
-                "network": "GitHub",
+                "label": "Github",
+                "network": "Github",
                 "user": "ricardo-pcan",
                 "url": "https://github.com/ricardo-pcan"
             },
@@ -251,278 +280,166 @@
                     "name": "Web",
                     "level": "advanced",
                     "skills": [
-                        "JavaScript", "HTML 5", "CSS", "LAMP", "MVC", "REST"
+                        "JavaScript", "HTML 5", "CSS", "MVC", "REST"
                     ]
                 },
                 {
                     "name": "JavaScript",
                     "level": "master",
                     "skills": [
-                        "Node.js", "Angular.js", "jQuery", "Bootstrap", "React.js", "Backbone.js"
+                        "Node.js", "jQuery", "Bootstrap", "React.js", "Backbone.js", "React Native"
                     ]
                 },
                 {
                     "name": "Database",
                     "level": "intermediate",
                     "skills": [
-                        "MySQL", "PostgreSQL", "NoSQL", "ORM", "Hibernate"
+                        "MySQL", "PostgreSQL", "NoSQL", "ORM"
                     ]
                 },
                 {
-                    "name": "Cloud",
+                    "name": "DevOps",
                     "level": "intermediate",
                     "skills": [
-                        "AWS", "EC2", "RDS", "S3", "Azure", "Dropbox"
+                        "AWS", "DigitalOcean", "Docker", "Docker Compose", "Ci/CD"
+                    ]
+                },
+                {
+                    "name": "Backend",
+                    "level": "Advanced",
+                    "skills": [
+                        "REST", "JSON API", "Design Patterns", "TDD"
                     ]
                 },
                 {
                     "name": "Project",
-                    "level": "beginner",
+                    "level": "Advanced",
                     "skills": [
-                        "Agile", "TFS", "JIRA", "GitHub", "Unified Process", "MS Project"
+                        "Agile", "GitHub", "Teamwork", "Leader", "Gitflow", "Github Flow"
                     ]
                 }
             ],
 
                 "list": [
                     {
-                        "name": "C++",
-                        "id": "1",
-                        "summary": "Optional summary of your experience with the skill.",
-                        "level": "9",
-                        "years": 7,
-                        "proof": "http://myblog.com/interesting-cplusplus-post"
-                    },
-                    {
                         "name": "Ruby",
-                        "id": "2",
-                        "summary": "Optional summary of your experience with the skill.",
-                        "level": "9",
-                        "years": 7,
-                        "proof": "http://myblog.com/interesting-cplusplus-post"
+                        "id": "1",
+                        "level": "7",
+                        "years": 3
                     },
                     {
-                        "name": "Xcode",
-                        "summary": "Xcode 6 development.",
-                        "level": "5",
-                        "years": "3"
+                        "name": "PHP",
+                        "id": "2",
+                        "level": "8",
+                        "years": 3
+                    },
+                    {
+                        "name": "JS",
+                        "id": "3",
+                        "level": "8",
+                        "years": 3
+                    },
+                    {
+                        "name": "Python",
+                        "id": "4",
+                        "level": "7",
+                        "years": 1
                     },
                     {
                         "name": "Linux",
-                        "summary": "Optional summary of your experience with the skill.",
                         "level": "advanced",
                         "years": "4+"
                     },
                     {
                         "name": "Agile",
-                        "summary": "Optional summary of your experience with the skill.",
                         "level": "B+",
                         "years": 2
                     }
                 ]
         },
 
-        "samples": [
-            {
-                "title": "Asteroids",
-                "summary": "A browser-based space shooter built on Three.js.",
-                "url": "http://janef.me/asteroids",
-                "date": "2014-09"
-            },
-            {
-                "title": "Rememberpedia",
-                "summary": "A website to help you remember things.",
-                "url": "https://rememberpedia.com",
-                "date": "2015-07"
-            }
-        ],
-
         "writing": [
             {
-                "title": "Teach Yourself GORFF in 21 Days",
-                "flavor": "book",
-                "date": "2008",
+                "title": "El porque las pruebas unitarias no sirven",
+                "flavor": "post",
+                "date": "2017",
                 "publisher": {
-                    "name": "Amazon",
-                    "url": "https://www.amazon.com"
+                    "name": "Medium",
+                    "url": "https://www.medium.com"
                 },
-                "url": "http://url.to.publication.com/blah",
-                "author": [ "Jane Fullstacker", "John Smith" ],
-                "summary": "A primer on the programming language of GORFF, whose for loops are coterminous with all of time and space."
+                "url": "https://medium.com/@ricardo_pcan/el-porque-las-pruebas-unitarias-no-sirven-d77981e61bae",
+                "author": [ "Ricardo Alberto Pérez Candelas"]
             },
             {
-                "title": "Building User Interfaces with Electron and Atom",
-                "flavor": "article",
-                "date": "2011",
+                "title": "La diferencia entre rake y rails",
+                "flavor": "post",
+                "date": "2017",
                 "publisher": {
-                    "name": "Code Project",
-                    "url": "http://codeproject.com"
+                    "name": "Medium",
+                    "url": "https://www.medium.com"
                 },
-                "url": "http://codeproject.com/build-ui-electron-atom.aspx"
+                "url": "https://medium.com/@ricardo_pcan/la-diferencia-entre-rake-y-rails-deb3e8a2d6e6",
+                "author": [ "Ricardo Alberto Pérez Candelas"]
             },
             {
-                "title": "Jane Fullstacker's Blog",
-                "flavor": "blog",
-                "date": "2011",
+                "title": "Un paso obligado para ser un desarrollador ‘Pro’",
+                "flavor": "post",
+                "date": "2017",
                 "publisher": {
-                    "name": "self",
-                    "url": "http://janef.me"
+                    "name": "Medium",
+                    "url": "https://www.medium.com"
                 },
-                "url": "http://janef.me"
-            }
-        ],
-
-        "reading": [
-            {
-                "title": "r/programming",
-                "flavor": "website",
-                "url": "https://www.reddit.com/r/programming/",
-                "summary": "Daily reader and longtime lurker."
-            },
-            {
-                "title": "Hacker News / YCombinator",
-                "flavor": "website",
-                "url": "https://news.ycombinator.com/",
-                "summary": "Daily reader and longtime lurker."
-            },
-            {
-                "title": "Coding Horror",
-                "flavor": "blog",
-                "url": "http://www.codinghorror.com",
-                "author": "Jeff Atwood",
-                "summary": "Reader since 2007; member of the StackOverflow Beta."
-            },
-            {
-                "title": "Code Complete",
-                "flavor": "book",
-                "url": "http://www.cc2e.com/Default.aspx",
-                "author": "Steve McConnell",
-                "date": "2014-09",
-                "summary": "My 'desert-island' software construction manual."
+                "url": "https://medium.com/@ricardo_pcan/un-paso-obligado-para-ser-un-desarrollador-pro-e81daa5bb6d9",
+                "author": [ "Ricardo Alberto Pérez Candelas"]
             }
         ],
 
         "speaking": [
             {
-                "title": "Data Warehousing Evolved: DARMA 2.0",
+                "title": "ReactJS Basic Course",
                 "role": "Speaker",
-                "event": "OPENSTART 2013 Developer's Conference",
-                "location": "Portland, OR",
-                "date": "2012",
+                "location": "Mexico City, México",
+                "date": "2017",
                 "highlights": [
-                    "Won 'Best Presentation on an Emerging Technical Field' prize."
+                    "I teached to 10 people the first steps to ReactJS"
                 ]
-            }
-        ],
-
-        "recognition": [
-            {
-                "flavor": "award",
-                "from": "Google",
-                "title": "Honorable Mention",
-                "event": "Summer of Code",
-                "date": "2012"
             },
             {
-                "flavor": "honor",
-                "from": "Cornell University",
-                "title": "Summa cum laude",
-                "event": "graduation",
-                "date": "2012"
-            }
-        ],
-
-        "references": [
-            {
-                "name": "John Davidson",
-                "flavor": "professional",
-                "private": true,
-                "contact": [
-                    {
-                        "label": "Mobile",
-                        "flavor": "phone",
-                        "value": "9-(999)-999-9999"
-                    },
-                    {
-                        "label": "Work email",
-                        "flavor": "email",
-                        "value": "jdavidson@veridiandynamics.com"
-                    }
+                "title": "Docker Basic Course",
+                "role": "Speaker",
+                "event": "Docker Meetup Course CDMX",
+                "location": "Mexico City, México",
+                "date": "2017",
+                "highlights": [
+                    "I spoke front of 100 people teaching the first steps to Docker technology"
                 ]
-            }
-        ],
-
-        "testimonials": [
-            {
-                "name": "John Davidson",
-                "flavor": "professional",
-                "quote": "Jane is awesome! I'd hire her again in a heartbeat.",
-                "private": true
-            },
-            {
-                "name": "Elias Fullstacker",
-                "flavor": "technical",
-                "quote": "I worked with Jane on Jabberwocky and can vouch for her awesome technical capabilities and attention to detail. Insta-hire."
-            },
-            {
-                "name": "Dana Nevins",
-                "flavor": "personal",
-                "quote": "I've known Jane personally and professionally for almost ten years. She is one in a million."
             }
         ],
 
         "languages": [
             {
                 "language": "English",
-                "level": "Native"
+                "level": "Moderate",
+                "years": 2
             },
             {
                 "language": "Spanish",
-                "level": "Moderate",
-                "years": 10
+                "level": "Native",
+                "years": 25
             }
         ],
 
         "extracurricular": [
             {
-                "title": "Bay Area Crew Club",
-                "activity": "",
-                "location": "San Francisco, CA",
-                "start": "2014-05"
-            },
-            {
-                "title": "Organizer / Manager",
-                "activity": "JavaScript Game Development Meetup",
-                "location": "Austin, TX",
-                "start": "2011-03",
-                "end": "2014-01",
+                "title": "Organizer / Speaker",
+                "activity": "Docker Meetup CDMX",
+                "location": "Ciudad de México, México",
+                "start": "2017-03",
                 "highlights": [
-                    "Monthly speaker on creative JavaScript development.",
-                    "Founded group and oversaw growth to 500+ members."
+                    "Monthly speaker on docker meet",
+                    "Free Docker Courses organizer and speaker"
                 ]
 
-            }
-        ],
-
-        "governance": [
-            {
-                "flavor": "board",
-                "role": "Member",
-                "organization": "The Mommies Network",
-                "url": "http://themommiesnetwork.org",
-                "start": "2008-02",
-                "end": "2010-01",
-                "summary": "Since 2008 I've been a full-time member of the board of directors for TMN."
-            },
-            {
-                "flavor": "committee",
-                "role": "Academic Contributor",
-                "organization": "Khronos Group",
-                "url": "https://www.khronos.org",
-                "start": "2015-01",
-                "highlights": [
-                    "Participated in GORFF standardization process (Draft 2)."
-                ]
             }
         ],
 
