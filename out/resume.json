@@ -1,0 +1,219 @@
+{
+  "basics": {
+    "name": "Ricardo Alberto Pérez Candelas",
+    "label": "FullStack Developer",
+    "summary": "**Full-stack software developer with 4+ years industry experience** specializing in back-end development and devops. Born and race in Texcoco, Mexico State, I enjoy play and follow college football and flag football, amateur guitar and drums player, mindfull and successfull books.",
+    "website": "http://richartl.github.io/",
+    "phone": "5568583198",
+    "email": "ricardo.pcan@gmail.com",
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "ricardo-pcan",
+        "url": "https://github.com/ricardo-pcan"
+      },
+      {
+        "network": "Twitter",
+        "username": "ricardo_pcan",
+        "url": "https://twitter.com/ricardo_pcan"
+      },
+      {
+        "network": "Medium",
+        "username": "ricardo_pcan",
+        "url": "https://medium.com/@ricardo_pcan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Mellow Consulting",
+      "position": "Team Leader",
+      "startDate": "2017-09",
+      "summary": "Tech Team leader for Mellow Consulting, lead a team of 8 people",
+      "highlights": [
+        "Lead a tech team of 8 people",
+        "Implement workflows and process for development",
+        "Talk with clients for create products",
+        "Plan, propose and implement digital solutions for client requirements with designers and marketing teams",
+        "Teach and propose solutions to developer team",
+        "Apply agile techniques for meets and project teams"
+      ]
+    },
+    {
+      "company": "Vinco Orbis",
+      "position": "Ruby on Rails Developer, Tech Leader",
+      "startDate": "2016-11",
+      "endDate": "2017-09",
+      "summary": "Ruby developer with Ruby on Rails Framework for a education projects",
+      "highlights": [
+        "Lead a team of 2 people",
+        "Teach to junior developers best practices",
+        "Use TDD and CI/CD",
+        "Use docker for create development environments"
+      ]
+    },
+    {
+      "company": "Vinco Orbis",
+      "position": "PHP Developer",
+      "startDate": "2015-04",
+      "endDate": "2016-11",
+      "summary": "PHP developer on Wordpress, Prestashop and vanilla PHP projects",
+      "highlights": [
+        "Create templates",
+        "Paticipate in a team for international client"
+      ]
+    },
+    {
+      "company": "Coordinación General de Formación e Innovación Educativa (CGFIE), Instituto Politécnico Nacional (IPN)",
+      "website": "http://www.cgfie.ipn.mx/Paginas/Inicio.aspx",
+      "position": "Software Developer",
+      "startDate": "2015-01",
+      "endDate": "2015-12",
+      "summary": "I participated on numerous Vanilla PHP projects for teach to IPN community, I used git, gitlab, docker",
+      "highlights": [
+        "I worked on a local PHP MVC framework for standarized team workflow",
+        "I installed a basic CentOS server for local use",
+        "I proposed use the github workflow for developer team and created many manual for best development and deploy practices"
+      ]
+    },
+    {
+      "company": "Feather México",
+      "website": "https://mx.linkedin.com/company/feather-mexico",
+      "position": "Trainee Code",
+      "startDate": "2014-08",
+      "endDate": "2015-01",
+      "summary": "Trainee developer, I participated on Ruby on Rails projects with PostgreSQL and Agile development techniques",
+      "highlights": [
+        "Participated on project for a big ensurance company",
+        "I understood the MVC and Design Patterns"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Autónoma del Estado de México",
+      "startDate": "2010-06",
+      "endDate": "2014-12"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web",
+      "level": "advanced",
+      "keywords": [
+        "JavaScript",
+        "HTML 5",
+        "CSS",
+        "MVC",
+        "REST"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "master",
+      "keywords": [
+        "Node.js",
+        "jQuery",
+        "Bootstrap",
+        "React.js",
+        "Backbone.js",
+        "React Native"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "intermediate",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "NoSQL",
+        "ORM"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "intermediate",
+      "keywords": [
+        "AWS",
+        "DigitalOcean",
+        "Docker",
+        "Docker Compose",
+        "Ci/CD"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Advanced",
+      "keywords": [
+        "REST",
+        "JSON API",
+        "Design Patterns",
+        "TDD"
+      ]
+    },
+    {
+      "name": "Project",
+      "level": "Advanced",
+      "keywords": [
+        "Agile",
+        "GitHub",
+        "Teamwork",
+        "Leader",
+        "Gitflow",
+        "Github Flow"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "El porque las pruebas unitarias no sirven",
+      "publisher": "Medium",
+      "releaseDate": "2017",
+      "website": "https://medium.com/@ricardo_pcan/el-porque-las-pruebas-unitarias-no-sirven-d77981e61bae"
+    },
+    {
+      "name": "La diferencia entre rake y rails",
+      "publisher": "Medium",
+      "releaseDate": "2017",
+      "website": "https://medium.com/@ricardo_pcan/la-diferencia-entre-rake-y-rails-deb3e8a2d6e6"
+    },
+    {
+      "name": "Un paso obligado para ser un desarrollador ‘Pro’",
+      "publisher": "Medium",
+      "releaseDate": "2017",
+      "website": "https://medium.com/@ricardo_pcan/un-paso-obligado-para-ser-un-desarrollador-pro-e81daa5bb6d9"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading",
+      "summary": "I am fan to historic novels, entrepreneur, personal growth and biographies",
+      "keywords": [
+        "Julio Verne",
+        "Elon Musk",
+        "El Azteca"
+      ]
+    },
+    {
+      "name": "Flag Football"
+    },
+    {
+      "name": "Football"
+    },
+    {
+      "name": "Makers"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Moderate",
+      "years": 2
+    },
+    {
+      "language": "Spanish",
+      "level": "Native",
+      "years": 25
+    }
+  ]
+}
