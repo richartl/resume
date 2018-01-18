@@ -9,15 +9,15 @@
 
         "info": {
             "label": "FullStack Developer",
-                "characterClass": "Programmer & DevOps",
-                "brief": "**Full-stack software developer with 5+ years industry experience** specializing in back-end development and devops. Born and race in Texcoco, Mexico State, I enjoy play and follow college football and flag football, amateur guitar and drums player, mindfull and successfull books.",
+                "characterClass": "Programmer and DevOps",
+                "brief": "**Full-stack software developer with 4+ years industry experience** specializing in back-end development and devops. Born and race in Texcoco, Mexico State, I enjoy play and follow college football and flag football, amateur guitar and drums player, mindfull and successfull books.",
                 "quote": "My mind == universe, infinite and always in expantion"
         },
 
         "contact": {
-            "website": "http://ricardo-pcan.github.io/",
+            "website": "http://richartl.github.io/",
                 "phone": "5568583198",
-                "email": "ripper@can-do.consulting",
+                "email": "ricardo.pcan@gmail.com",
                 "other": [
                     {
                         "label": "Personal Email",
@@ -40,7 +40,7 @@
             {
                 "title": "khan-lite-backend",
                 "category": "commercial",
-                "role": "devops & backend developer",
+                "role": "devops and backend developer",
                 "url": "http://api.khan.vincolabs.com/swagger/dist/index.html?url=/api/v1/docs",
                 "description": "Khan Academy Lite API",
                 "summary": "Microservice for serve resources from Khan Academy Lite installation, build with ruby and docker containers",
@@ -49,7 +49,7 @@
             {
                 "title": "wiki-download",
                 "category": "commercial",
-                "role": "devops & backend developer",
+                "role": "devops and backend developer",
                 "description": "Microsevice for download pdf from Wikipedia article",
                 "summary": "Microservice for serve pdf from Wikipedia article, build with python and docker containers",
                 "keywords": ["Education", "Docker", "Microservices", "Django", "Django Rest Framework", "API"]
@@ -128,146 +128,84 @@
 
         "employment": {
 
-            "summary": "7+ years industry IT and software development experience.",
+            "summary": "4+ years industry IT and software development experience.",
 
                 "history": [
-
                     {
-                        "employer": "Area 52",
-                        "url": "https://area52.io/does-not-exist",
-                        "position": "Head Code Ninja",
-                        "summary": "Development team manager for [**Quantum Diorama**](https://en.wikipedia.org/wiki/Vaporware), a distributed molecular modeling and analysis suite for Linux and OS X.",
-                        "start": "2013-09",
-                        "keywords": ["Agile","PM","C","C++","R","OpenGL","Boost","MySQL","PostgreSQL","JIRA"],
-                        "highlights": ["Managed a 5-person development team", "Accomplishment 2", "Etc."]
+                        "employer": "Mellow Consulting",
+                        "position": "Team Leader",
+                        "summary": "Tech Team leader for Mellow Consulting, lead a team of 8 people",
+                        "start": "2017-09",
+                        "keywords": ["Agile","Lead","SCRUM","React Native","PHP","AWS","Node,js","React.JS","Redux","Workflow","CI/CD"],
+                        "highlights": [
+                            "Lead a tech team of 8 people",
+                            "Implement workflows and process for development",
+                            "Talk with clients for create products",
+                            "Plan, propose and implement digital solutions for client requirements with designers and marketing teams",
+                            "Teach and propose solutions to developer team",
+                            "Apply agile techniques for meets and project teams"
+                        ]
                     },
 
                     {
-                        "employer": "Veridian Dynamics",
-                        "url": "https://en.wikipedia.org/wiki/Better_Off_Ted#Plot",
-                        "position": "Principal Developer",
-                        "summary": "Developer on numerous projects culminating in technical lead role for the [Jabberwocky project](http://betteroffted.wikia.com/wiki/Jabberwocky) and promotion to principal developer.",
-                        "start": "2011-07",
-                        "end": "2013-08",
-                        "keywords": ["C++","C","Linux","R","Clojure"],
-                        "highlights": ["Managed a 5-person development team", "Accomplishment 2", "Etc."]
+                        "employer": "Vinco Orbis",
+                        "position": "Ruby on Rails Developer, Tech Leader",
+                        "summary": "Ruby developer with Ruby on Rails Framework for a education projects",
+                        "start": "2016-11",
+                        "end": "2017-09",
+                        "keywords": ["Lead","Ruby on Rails","Ruby","CircleCi","CI/CD","TDD","Rspec","SCRUM"],
+                        "highlights": ["Lead a team of 2 people", "Teach to junior developers best practices", "Use TDD and CI/CD", "Use docker for create development environments"]
                     },
 
                     {
-                        "employer": "Stark Industries",
-                        "position": "IT Administrator",
-                        "summary": "Junior programmer with heavy code responsibilities. Promoted to intermediate role after 6 months.",
-                        "start": "2008-10",
-                        "end": "2011-06",
-                        "keywords": ["Novell","Active Directory","Linux","Windows"],
-                        "highlights": ["Promoted to intermediate developer after 6 months", "Accomplishment 2", "Etc."]
+                        "employer": "Vinco Orbis",
+                        "position": "PHP Developer",
+                        "summary": "PHP developer on Wordpress, Prestashop and vanilla PHP projects",
+                        "start": "2015-04",
+                        "end": "2016-11",
+                        "keywords": ["PHP","Wordpress","Prestashop",""],
+                        "highlights": ["Create templates","Paticipate in a team for international client"]
                     },
 
                     {
-                        "employer": "Dunder Mifflin",
-                        "position": "Intern",
-                        "summary": "Performed IT administration and deployments for Dunder Mifflin.",
-                        "start": "2008-06",
-                        "end": "2008-09",
-                        "keywords": ["Novell","Active Directory","Linux","Windows"],
-                        "highlights": ["Supervised roll-out of Dunder Mifflin Infinity website.", "Performed mission-critical system backups and ", "Etc."]
+                        "employer": "Coordinación General de Formación e Innovación Educativa (CGFIE), Instituto Politécnico Nacional (IPN)",
+                        "url": "http://www.cgfie.ipn.mx/Paginas/Inicio.aspx",
+                        "position": "Software Developer",
+                        "summary": "I participated on numerous Vanilla PHP projects for teach to IPN community, I used git, gitlab, docker",
+                        "start": "2015-01",
+                        "end": "2015-12",
+                        "keywords": ["PHP","Linux","MVC","Codeigniter","Git","Gitlab","Docker"],
+                        "highlights": ["I worked on a local PHP MVC framework for standarized team workflow", "I installed a basic CentOS server for local use", "I proposed use the github workflow for developer team and created many manual for best development and deploy practices"]
+                    },
+
+                    {
+                        "employer": "Feather México",
+                        "url": "https://mx.linkedin.com/company/feather-mexico",
+                        "position": "Trainee Code",
+                        "summary": "Trainee developer, I participated on Ruby on Rails projects with PostgreSQL and Agile development techniques",
+                        "start": "2014-08",
+                        "end": "2015-01",
+                        "keywords": ["Agile","Ruby","Ruby on Rails","PostgreSQL","SCRUM","HTML","CSS","MySQL","PHP"],
+                        "highlights": ["Participated on project for a big ensurance company", "I understood the MVC and Design Patterns"]
                     }
                 ]
-
         },
 
         "education": {
 
-            "summary": "",
+            "summary": "I complete all courses and credits of my degree, I am waiting to present degree exam in April",
 
-                "level": "degree",
-
+                "level": "",
                 "degree": "BSCS",
-
                 "history": [
 
                     {
-                        "institution": "Cornell University",
+                        "institution": "Universidad Autónoma del Estado de México",
                         "title": "BSCS",
-                        "url": "https://www.cornell.edu/",
-                        "start": "2005-09",
-                        "end": "2008-05",
-                        "grade": "3.5",
-                        "summary": "A multiline summary of the education.",
-                        "curriculum": ["Course 1", "Course 2", "Course 2"]
-                    },
-
-                    {
-                        "institution": "Medfield College",
-                        "title": "",
-                        "url": "https://en.wikipedia.org/wiki/Medfield_College",
-                        "start": "2003-09",
-                        "end": "2005-06",
-                        "grade": "3.2",
-                        "summary": "A multiline summary of the education.",
-                        "curriculum": ["Course 1", "Course 2", "Course 2"]
-                    }
-                ]
-
-        },
-
-        "affiliation": {
-            "summary": "Member of numerous collegiate and professional groups and organizations.",
-                "history": [
-                    {
-                        "role": "Member",
-                        "organization": "IEEE",
-                        "url": "https://www.ieee.org/index.html",
-                        "start": "2013-06",
-                        "summary": "Member in good standing since 2013-06."
-                    },
-                    {
-                        "role": "Member",
-                        "organization": "Apple Developer Network",
-                        "url": "https://developer.apple.com/",
-                        "summary": "Member of the [Apple Developer program](https://developer.apple.com/) since 2008."
-                    },
-                    {
-                        "role": "Subscriber",
-                        "organization": "MSDN",
-                        "url": "https://msdn.microsoft.com",
-                        "start": "2010",
-                        "summary": "Super-Ultra-gold level Ultimate Access MSDN subscriber package with subscription toaster and XBox ping pong racket."
-                    },
-                    {
-                        "role": "Coordinator",
-                        "organization": "Campus Coder's Meetup",
-                        "start": "2003-02",
-                        "end": "2004-04",
-                        "summary": "Host of a monthly **campus-wide meetup for CS students**. Code, coffee, and crullers!"
-                    }
-                ]
-        },
-
-        "service": {
-
-            "summary": "Active US Army Reserve member and Technology for Tots technical consultant and volunteer coordinator.",
-
-                "history": [
-                    {
-                        "flavor": "volunteer",
-                        "position": "Technical Consultant",
-                        "organization": "Technology for Tots",
-                        "url": "http://technology-for-tots.org",
-                        "start": "2003-11",
-                        "end": "2005-06",
-                        "summary": "Summary of this volunteer stint.",
-                        "highlights": ["Accomplishment 1", "Accomplishment 2", "etc"]
-                    },
-                    {
-                        "flavor": "military",
-                        "position": "NCO",
-                        "organization": "US Army Reserves",
-                        "url": "http://www.usar.army.mil/",
-                        "start": "1999-11",
-                        "end": "2003-06",
-                        "summary": "Summary of this military stint.",
-                        "highlights": ["Accomplishment 1", "Accomplishment 2", "etc"]
+                        "url": "http://www.uaemex.mx/",
+                        "start": "2010-06",
+                        "end": "2014-12",
+                        "summary": "Branch on Software Development"
                     }
                 ]
 
@@ -445,16 +383,18 @@
 
         "interests": [
             {
-                "name": "reading",
-                "summary": "Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.",
-                "keywords": [ "mystery", "Agatha Christie", "John Grisham" ]
+                "name": "Reading",
+                "summary": "I am fan to historic novels, entrepreneur, personal growth and biographies",
+                "keywords": [ "Julio Verne", "Elon Musk", "El Azteca" ]
             },
             {
-                "name": "hiking",
-                "summary": "Jane enjoys hiking, light mountain climbing, and has four summits under her belt!"
+                "name": "Flag Football"
             },
             {
-                "name": "yoga"
+                "name": "Football"
+            },
+            {
+                "name": "Makers"
             }
         ]
 
