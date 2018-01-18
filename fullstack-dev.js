@@ -34,6 +34,7 @@
                 "role": "Tech Leader and Backend Developer",
                 "description": "RESTFUL API with microservices architecture, build on ruby, python and docker containers",
                 "start": "2017-04",
+                "end": "2017-08",
                 "summary": "Product for build interactive lessons for kids with multimedia resources from Youtube, Khan Academy Lite, Wikipedia, Red Magsiterial, Google Images",
                 "keywords": ["Education", "Ruby", "Docker", "Python", "Microservices", "Test Unit", "Rspec", "Continuous Integration", "Continuous Delivery", "API"]
             },
@@ -42,6 +43,8 @@
                 "category": "commercial",
                 "role": "devops and backend developer",
                 "url": "http://api.khan.vincolabs.com/swagger/dist/index.html?url=/api/v1/docs",
+                "start": "2017-06",
+                "end": "2017-06",
                 "description": "Khan Academy Lite API",
                 "summary": "Microservice for serve resources from Khan Academy Lite installation, build with ruby and docker containers",
                 "keywords": ["Education", "Ruby", "Docker", "Microservices", "Ruby on Rails", "API"]
@@ -50,6 +53,8 @@
                 "title": "wiki-download",
                 "category": "commercial",
                 "role": "devops and backend developer",
+                "start": "2017-06",
+                "end": "2017-06",
                 "description": "Microsevice for download pdf from Wikipedia article",
                 "summary": "Microservice for serve pdf from Wikipedia article, build with python and docker containers",
                 "keywords": ["Education", "Docker", "Microservices", "Django", "Django Rest Framework", "API"]
@@ -59,6 +64,7 @@
                 "category": "commercial",
                 "role": "back-end developer",
                 "start": "2016-09",
+                "end": "2017-04",
                 "description": "RESTFUL API for Grubertek Admin and App",
                 "summary": "RESTFUL API for Grubertek",
                 "keywords": ["PHP", "PHPUnit", "Vagrant", "Test Unit", "Continuous Integration", "Continuous Delivery", "API"]
@@ -69,6 +75,7 @@
                 "role": "developer",
                 "repo": "https://github.com/ricardo-pcan/SudoVerbs",
                 "start": "2017-05",
+                "end": "2017-05",
                 "description": "Bash Console Utility for learn english verbs",
                 "summary": "Bash console utility for learn english verbs",
                 "keywords": ["Bash", "Shell", "Education"]
