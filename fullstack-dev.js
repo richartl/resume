@@ -10,7 +10,7 @@
         "info": {
             "label": "FullStack Developer",
                 "characterClass": "Programmer and DevOps",
-                "brief": "**Full-stack software developer with 4+ years industry experience** specializing in back-end development and devops. Born and race in Texcoco, Mexico State, I enjoy play and follow college football and flag football, amateur guitar and drums player, mindfull and successfull books.",
+                "brief": "**Full-stack software developer with 4+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books.",
                 "quote": "My mind == universe, infinite and always in expantion"
         },
 
@@ -141,13 +141,13 @@
                     {
                         "employer": "Mellow Consulting",
                         "position": "Team Leader",
-                        "summary": "Tech Team leader for Mellow Consulting, lead a team of 8 people",
+                        "summary": "Tech Team leader at Mellow Consulting, leading an 8 people team",
                         "start": "2017-09",
                         "keywords": ["Agile","Lead","SCRUM","React Native","PHP","AWS","Node,js","React.JS","Redux","Workflow","CI/CD"],
                         "highlights": [
                             "Lead a tech team of 8 people",
                             "Implement workflows and process for development",
-                            "Talk with clients for create products",
+                            "Talk with clients to create products",
                             "Plan, propose and implement digital solutions for client requirements with designers and marketing teams",
                             "Teach and propose solutions to developer team",
                             "Apply agile techniques for meets and project teams"
@@ -157,7 +157,7 @@
                     {
                         "employer": "Vinco Orbis",
                         "position": "Ruby on Rails Developer, Tech Leader",
-                        "summary": "Ruby developer with Ruby on Rails Framework for a education projects",
+                        "summary": "Ruby developer with Ruby on Rails Framework for education projects",
                         "start": "2016-11",
                         "end": "2017-09",
                         "keywords": ["Lead","Ruby on Rails","Ruby","CircleCi","CI/CD","TDD","Rspec","SCRUM"],
@@ -178,7 +178,7 @@
                         "employer": "Coordinación General de Formación e Innovación Educativa (CGFIE), Instituto Politécnico Nacional (IPN)",
                         "url": "http://www.cgfie.ipn.mx/Paginas/Inicio.aspx",
                         "position": "Software Developer",
-                        "summary": "I participated on numerous Vanilla PHP projects for teach to IPN community, I used git, gitlab, docker",
+                        "summary": "I participated on numerous Vanilla PHP projects to teach to IPN community, I used git, gitlab, docker",
                         "start": "2015-01",
                         "end": "2015-12",
                         "keywords": ["PHP","Linux","MVC","Codeigniter","Git","Gitlab","Docker"],

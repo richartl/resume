@@ -4,7 +4,7 @@ Email: ricardo.pcan@gmail.com
 Tel: 5568583198
 Web: http://richartl.github.io/
 
-**Full-stack software developer with 4+ years industry experience** specializing in back-end development and devops. Born and race in Texcoco, Mexico State, I enjoy play and follow college football and flag football, amateur guitar and drums player, mindfull and successfull books.
+**Full-stack software developer with 4+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books.
 
 ## SKILLS
 
@@ -19,17 +19,17 @@ Web: http://richartl.github.io/
 
 ### *Team Leader*, Mellow Consulting (2017-09 — Present)
 
-Tech Team leader for Mellow Consulting, lead a team of 8 people
+Tech Team leader at Mellow Consulting, leading an 8 people team
   - Lead a tech team of 8 people
   - Implement workflows and process for development
-  - Talk with clients for create products
+  - Talk with clients to create products
   - Plan, propose and implement digital solutions for client requirements with designers and marketing teams
   - Teach and propose solutions to developer team
   - Apply agile techniques for meets and project teams
 
 ### *Ruby on Rails Developer, Tech Leader*, Vinco Orbis (2016-11 — 2017-09)
 
-Ruby developer with Ruby on Rails Framework for a education projects
+Ruby developer with Ruby on Rails Framework for education projects
   - Lead a team of 2 people
   - Teach to junior developers best practices
   - Use TDD and CI/CD
@@ -43,7 +43,7 @@ PHP developer on Wordpress, Prestashop and vanilla PHP projects
 
 ### *Software Developer*, [Coordinación General de Formación e Innovación Educativa (CGFIE), Instituto Politécnico Nacional (IPN)](http://www.cgfie.ipn.mx/Paginas/Inicio.aspx) (2015-01 — 2015-12)
 
-I participated on numerous Vanilla PHP projects for teach to IPN community, I used git, gitlab, docker
+I participated on numerous Vanilla PHP projects to teach to IPN community, I used git, gitlab, docker
   - I worked on a local PHP MVC framework for standarized team workflow
   - I installed a basic CentOS server for local use
   - I proposed use the github workflow for developer team and created many manual for best development and deploy practices

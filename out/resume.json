@@ -2,7 +2,7 @@
   "basics": {
     "name": "Ricardo Alberto Pérez Candelas",
     "label": "FullStack Developer",
-    "summary": "**Full-stack software developer with 4+ years industry experience** specializing in back-end development and devops. Born and race in Texcoco, Mexico State, I enjoy play and follow college football and flag football, amateur guitar and drums player, mindfull and successfull books.",
+    "summary": "**Full-stack software developer with 4+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books.",
     "website": "http://richartl.github.io/",
     "phone": "5568583198",
     "email": "ricardo.pcan@gmail.com",
@@ -29,11 +29,11 @@
       "company": "Mellow Consulting",
       "position": "Team Leader",
       "startDate": "2017-09",
-      "summary": "Tech Team leader for Mellow Consulting, lead a team of 8 people",
+      "summary": "Tech Team leader at Mellow Consulting, leading an 8 people team",
       "highlights": [
         "Lead a tech team of 8 people",
         "Implement workflows and process for development",
-        "Talk with clients for create products",
+        "Talk with clients to create products",
         "Plan, propose and implement digital solutions for client requirements with designers and marketing teams",
         "Teach and propose solutions to developer team",
         "Apply agile techniques for meets and project teams"
@@ -44,7 +44,7 @@
       "position": "Ruby on Rails Developer, Tech Leader",
       "startDate": "2016-11",
       "endDate": "2017-09",
-      "summary": "Ruby developer with Ruby on Rails Framework for a education projects",
+      "summary": "Ruby developer with Ruby on Rails Framework for education projects",
       "highlights": [
         "Lead a team of 2 people",
         "Teach to junior developers best practices",
@@ -69,7 +69,7 @@
       "position": "Software Developer",
       "startDate": "2015-01",
       "endDate": "2015-12",
-      "summary": "I participated on numerous Vanilla PHP projects for teach to IPN community, I used git, gitlab, docker",
+      "summary": "I participated on numerous Vanilla PHP projects to teach to IPN community, I used git, gitlab, docker",
       "highlights": [
         "I worked on a local PHP MVC framework for standarized team workflow",
         "I installed a basic CentOS server for local use",

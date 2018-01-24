@@ -530,7 +530,7 @@
         <w:pPr>
           <w:pStyle w:val="Summary"/>
         </w:pPr>
-        <w:r><w:rPr><w:b/></w:rPr><w:t>Full-stack software developer with 4+ years industry experience</w:t></w:r><w:r><w:rPr></w:rPr><w:t> specializing in back-end development and devops. Born and race in Texcoco, Mexico State, I enjoy play and follow college football and flag football, amateur guitar and drums player, mindfull and successfull books.</w:t></w:r>
+        <w:r><w:rPr><w:b/></w:rPr><w:t>Full-stack software developer with 4+ years industry experience</w:t></w:r><w:r><w:rPr></w:rPr><w:t> specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books.</w:t></w:r>
       </w:p>
       <wx:sub-section>
   <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -836,7 +836,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Tech Team leader for Mellow Consulting, lead a team of 8 people</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Tech Team leader at Mellow Consulting, leading an 8 people team</w:t></w:r>
     </w:p>
 
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
@@ -882,7 +882,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Talk with clients for create products</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Talk with clients to create products</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -965,7 +965,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Ruby developer with Ruby on Rails Framework for a education projects</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Ruby developer with Ruby on Rails Framework for education projects</w:t></w:r>
     </w:p>
 
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
@@ -1136,7 +1136,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>I participated on numerous Vanilla PHP projects for teach to IPN community, I used git, gitlab, docker</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>I participated on numerous Vanilla PHP projects to teach to IPN community, I used git, gitlab, docker</w:t></w:r>
     </w:p>
 
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
