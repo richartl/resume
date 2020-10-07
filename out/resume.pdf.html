@@ -3,17 +3,31 @@
   <head>
     <meta charset="utf-8">
     <title>Ricardo Alberto Pérez Candelas</title>
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <style>html, body, main, section, header, ul, p, h1, h2, h3 {
-  font-family: Calibri, 'Open Sans', sans-serif;
+  font-family: 'Open Sans', 'sans-serif';
   font-size: 14px;
+  line-height: 1.4;
   margin: 0; padding: 0;
   display: block;
 }
 
+::selection {
+  color: #fff;
+  background: #e48a8a; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  color: #fff;
+  background: #e48a8a; /* Gecko Browsers */
+}
+
+p::selection {
+  color: #fff;
+}
+
 a {
-  color: #0064BD;
+  color: #C00000;
   text-decoration: none;
 }
 
@@ -38,24 +52,27 @@ h2 {
   font-weight: 400;
 }
 
+h3, .tenure {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
 h3 {
-  font-size: 1em;
   margin-top: 0;
-  width: 66%;
+  margin-bottom: 5px;
+  /*width: 85%;*/
   float: left;
 }
 
 table {
   width: 100%;
   text-transform: uppercase;
-  font-size: 1.3em;
 }
 
 td:first-child {
-  text-align: right;
-  color: #A9A9A9;
-  /*letter-spacing: 5px;*/
-  font-weight: bold;
+  letter-spacing: 0;
+  color: #bd5b5b;
+  font-size: 20px;
 }
 
 td:last-child {
@@ -73,11 +90,11 @@ main {
 }
 
 section {
-  margin-top: 1em;
+  margin-top: 2em;
 }
 
 section > div {
-  margin-top: 1em;
+  margin-top: 2em;
   overflow: hidden; /* Clear floated children */
 }
 
@@ -87,6 +104,14 @@ section > div p {
 
 section > header {
   position: relative;
+}
+
+p + ul {
+  margin: 1em;
+}
+
+ul {
+  clear: both;
 }
 
 li {
@@ -99,6 +124,32 @@ p, li {
 
 .tenure {
   float: right;
+  color: #6F6F6F;
+  background-color: #F5F5F5;
+  border-radius: 6px;
+  padding: 4px 6px;
+  font-size: 85%;
+  font-weight: 600;
+  margin-top: 3px;
+}
+
+.location {
+  border: #e2aaaa dashed 1px;
+  background-color: #ffffff;
+  padding: 3px 6px;
+  border-radius: 6px;
+  float: right;
+  margin-right: 5px;
+  float: right;
+  font-size: 85%;
+  color: #717171;
+  font-weight: 600;
+  margin-top: 3px;
+}
+
+span.keywords {
+  font-size: 12px;
+  color: #B16666;
 }
 
 thead {
@@ -119,12 +170,17 @@ h1, h2, .label {
   font-size: 2.5em;
   text-transform: uppercase;
   font-weight: 300;
-  font-family: 'Open Sans', 'Segoe UI', sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Lato', 'sans-serif'
 }
 
 #contact {
  clear: both;
  float: right;
+ margin-top: 2px;
+}
+
+#contact span + span {
+  margin-left: 10px;
 }
 
 header > span.fa {
@@ -132,7 +188,7 @@ header > span.fa {
   margin-right: 3px;
   position: absolute;
   width: 40px;
-  top: 10px;
+  top: 14px;
   font-size: 30px;
   /*transform: translateX(-110%); PDF no likey */
   margin-left: -50px;
@@ -147,6 +203,21 @@ header > span.fa {
 #summary {
   color: #717171;
   font-size: 1.25em;
+  margin-top: 6em;
+}
+
+#skills td {
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+#references > p, #references > p > a {
+  color: #961e1e;
+  text-align: center;
+  margin: 30px;
+  font-weight: bold;
+  letter-spacing: 0;
+  text-transform: uppercase;
 }
 </style>
   </head>
@@ -154,17 +225,17 @@ header > span.fa {
     <main>
       <header>
         <h1>Ricardo Alberto Pérez <span style="color: #C00000;">Candelas</span></h1>
-        <span class="label">FullStack Developer</span>
+        <span class="label">Site Reliability Engineer II</span>
         <p id="contact">
-          <span class="email"><a href="mailto:ricardo.pcan@gmail.com">ricardo.pcan@gmail.com</a></span>
+          <span class="email"><a href="mailto:me@ricardoperezcandelas.com">me@ricardoperezcandelas.com</a></span>
           <span class="phone">5568583198</span>
-          <span class="website"><a href="http://richartl.github.io/"><a href="http://richartl.github.io/">http://richartl.github.io/</a></a></span>
+          <span class="website"><a href="https://ricardoperezcandelas.com/"><a href="https://ricardoperezcandelas.com/">https://ricardoperezcandelas.com/</a></a></span>
         </p>
       </header>
 
 
       <section id="summary">
-        <strong>Full-stack software developer with 4+ years industry experience</strong> specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books.
+        <strong>Site Reliability Engineer, Full-stack software developer with 5+ years industry experience</strong> specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books.
       </section>
 
 
@@ -197,7 +268,7 @@ header > span.fa {
             </tr>
             <tr>
               <td style="width: 25%;">DevOps</td>
-              <td class="keywords">AWS DigitalOcean Docker Docker Compose Ci/CD </td>
+              <td class="keywords">AWS DigitalOcean Docker Docker Compose Ci/CD Jenkins Gitlab Bitbucket GCP Kubernetes Makisu project Helm Harness Jenkins Pipelines Terraform </td>
             </tr>
             <tr>
               <td style="width: 25%;">Backend</td>
@@ -217,12 +288,47 @@ header > span.fa {
           <header>
             <span class="fa fa-lg fa-building"></span>  <h2>employment</h2>
           </header>
-      
+          <div>
+            <h3><em>Site Reliability Engineer II</em>,
+              Wizeline
+              </h3>
+              <span class="tenure">2019-09 — Present</span>
+              
+            <p><p>Making and follow DevOps practices and culture</p>
+      </p>
+            <ul>
+              <li>Work with internationa team remotly</li>
+              <li>First one DevOpsDays in Mexico 2020 core-organizer</li>
+              <li>Contribute to internal projects</li>
+              <li>Estudy GCP and AWS proffessional certifications</li>
+              <li>DevOps practitioner</li>
+            </ul>
+            <span class="keywords">Docker Kubernetes DevOps Terraform AWS GCP Organizer SCRUM Jenkins Harness Gitlab Ruby Bash Groovy </span>
+          </div>
+          <div>
+            <h3><em>Team Leader</em>,
+              Nimanic
+              </h3>
+              <span class="tenure">2018-03 — 2019-09</span>
+              
+            <p><p>Software Team Leader Engineer and Cloud Operator</p>
+      </p>
+            <ul>
+              <li>Learn internet of things protocols and communication</li>
+              <li>Start with Agile practices</li>
+              <li>Learn startup cycle and releases</li>
+              <li>Start implementation of continuous delivery and deployment</li>
+              <li>Migration of all production environment from Heroku to AWS</li>
+              <li>Implement high availability</li>
+            </ul>
+            <span class="keywords">Ruby MQTT Lead Heroku AWS Telematics Jenkins SCRUM React Native PHP AWS Node,js React.JS Redux Workflow CI/CD </span>
+          </div>
           <div>
             <h3><em>Team Leader</em>,
               Mellow Consulting
               </h3>
-              <span class="tenure">2017-09 — Present</span>
+              <span class="tenure">2017-09 — 2018-03</span>
+              
             <p><p>Tech Team leader at Mellow Consulting, leading an 8 people team</p>
       </p>
             <ul>
@@ -233,13 +339,14 @@ header > span.fa {
               <li>Teach and propose solutions to developer team</li>
               <li>Apply agile techniques for meets and project teams</li>
             </ul>
-            <span class="keywords">Agile Lead SCRUM React Native PHP AWS Node,js React.JS Redux Workflow CI/CD </span>      
+            <span class="keywords">Agile Lead SCRUM React Native PHP AWS Node,js React.JS Redux Workflow CI/CD </span>
           </div>
           <div>
             <h3><em>Ruby on Rails Developer, Tech Leader</em>,
               Vinco Orbis
               </h3>
               <span class="tenure">2016-11 — 2017-09</span>
+              
             <p><p>Ruby developer with Ruby on Rails Framework for education projects</p>
       </p>
             <ul>
@@ -248,26 +355,28 @@ header > span.fa {
               <li>Use TDD and CI/CD</li>
               <li>Use docker for create development environments</li>
             </ul>
-            <span class="keywords">Lead Ruby on Rails Ruby CircleCi CI/CD TDD Rspec SCRUM </span>      
+            <span class="keywords">Lead Ruby on Rails Ruby CircleCi CI/CD TDD Rspec SCRUM </span>
           </div>
           <div>
             <h3><em>PHP Developer</em>,
               Vinco Orbis
               </h3>
               <span class="tenure">2015-04 — 2016-11</span>
+              
             <p><p>PHP developer on Wordpress, Prestashop and vanilla PHP projects</p>
       </p>
             <ul>
               <li>Create templates</li>
               <li>Paticipate in a team for international client</li>
             </ul>
-            <span class="keywords">PHP Wordpress Prestashop  </span>      
+            <span class="keywords">PHP Wordpress Prestashop  </span>
           </div>
           <div>
             <h3><em>Software Developer</em>,
               <a href="http://www.cgfie.ipn.mx/Paginas/Inicio.aspx">Coordinación General de Formación e Innovación Educativa (CGFIE), Instituto Politécnico Nacional (IPN)</a>
               </h3>
               <span class="tenure">2015-01 — 2015-12</span>
+              
             <p><p>I participated on numerous Vanilla PHP projects to teach to IPN community, I used git, gitlab, docker</p>
       </p>
             <ul>
@@ -275,20 +384,21 @@ header > span.fa {
               <li>I installed a basic CentOS server for local use</li>
               <li>I proposed use the github workflow for developer team and created many manual for best development and deploy practices</li>
             </ul>
-            <span class="keywords">PHP Linux MVC Codeigniter Git Gitlab Docker </span>      
+            <span class="keywords">PHP Linux MVC Codeigniter Git Gitlab Docker </span>
           </div>
           <div>
             <h3><em>Trainee Code</em>,
               <a href="https://mx.linkedin.com/company/feather-mexico">Feather México</a>
               </h3>
               <span class="tenure">2014-08 — 2015-01</span>
+              
             <p><p>Trainee developer, I participated on Ruby on Rails projects with PostgreSQL and Agile development techniques</p>
       </p>
             <ul>
               <li>Participated on project for a big ensurance company</li>
               <li>I understood the MVC and Design Patterns</li>
             </ul>
-            <span class="keywords">Agile Ruby Ruby on Rails PostgreSQL SCRUM HTML CSS MySQL PHP </span>      
+            <span class="keywords">Agile Ruby Ruby on Rails PostgreSQL SCRUM HTML CSS MySQL PHP </span>
           </div>
       </section>
 
@@ -298,6 +408,15 @@ header > span.fa {
           <header>
             <span class="fa fa-lg fa-star"></span>  <h2>projects</h2>
           </header>
+          <div>
+          <h3><em>Site Reliability Engineer</em>,
+          Exemplar
+          </h3>
+          <span class="tenure">2019-11 — Present</span>
+          <p>We need to analyze, plan and implement DevOps best practices such CI/CD, make pipelines and use Continuous deployment tools</p>
+      
+          <span class="keywords">Jenkins OKTA AWS GCP Docker Kubernetes Terraform Harness New Relic CI CD </span>    
+          </div>
           <div>
           <h3><em>Tech Leader and Backend Developer</em>,
           Creator API
@@ -311,7 +430,7 @@ header > span.fa {
           <h3><em>Devops and backend developer</em>,
           <a href="http://api.khan.vincolabs.com/swagger/dist/index.html?url=/api/v1/docs">khan-lite-backend</a>
           </h3>
-          <span class="tenure">2017-06 — 2017-06</span>
+          <span class="tenure">2017-06</span>
           <p>Microservice for serve resources from Khan Academy Lite installation, build with ruby and docker containers</p>
       
           <span class="keywords">Education Ruby Docker Microservices Ruby on Rails API </span>    
@@ -320,7 +439,7 @@ header > span.fa {
           <h3><em>Devops and backend developer</em>,
           wiki-download
           </h3>
-          <span class="tenure">2017-06 — 2017-06</span>
+          <span class="tenure">2017-06</span>
           <p>Microservice for serve pdf from Wikipedia article, build with python and docker containers</p>
       
           <span class="keywords">Education Docker Microservices Django Django Rest Framework API </span>    
@@ -338,7 +457,7 @@ header > span.fa {
           <h3><em>Developer</em>,
           SudoVerbs
           </h3>
-          <span class="tenure">2017-05 — 2017-05</span>
+          <span class="tenure">2017-05</span>
           <p>Bash console utility for learn english verbs</p>
       
           <span class="keywords">Bash Shell Education </span>    
@@ -381,6 +500,7 @@ header > span.fa {
           <div>
             <h3><em>BSCS</em>, Universidad Autónoma del Estado de México</h3>
             <span class="tenure">2010-06 — 2014-12</span>
+            
             <p>Branch on Software Development</p>
       
             
@@ -392,6 +512,74 @@ header > span.fa {
       
 
       
+      <hr>
+      <section id="extracurricular">
+          <header>
+            <span class="fa fa-lg fa-child"></span>  <h2>extracurricular</h2>
+          </header>
+      
+          <div>
+            <h3><em>Organizer / Speaker</em>,
+              Docker Meetup CDMX
+              </h3>
+              <span class="tenure">2017-03 — Present</span>
+              <span class="location">CDMX, México</span>
+            <p></p>
+            <ul>
+              <li>Monthly speaker on docker meet</li>
+              <li>Free Docker Courses organizer and speaker</li>
+            </ul>
+            
+          </div>
+          <div>
+            <h3><em>Core Organizer</em>,
+              <a href="https://devopsdays.org/events/2020-guadalajara/welcome/">DevOpsDays Guadalajara Mexico 2020</a>
+              </h3>
+              <span class="tenure">2020-03 — Present</span>
+              <span class="location">Guadalajara, México</span>
+            <p></p>
+            <ul>
+              <li>The First one event like this in Mexico</li>
+              <li>Get sponsorships</li>
+              <li>Made community events to get more exposure</li>
+            </ul>
+            
+          </div>
+          <div>
+            <h3><em>Enchiladas DevOps Podcast</em>,
+              <a href="https://enchiladasdevops.com">Co-Host</a>
+              </h3>
+              <span class="tenure">2019-12 — Present</span>
+              <span class="location">CDMX, México</span>
+            <p></p>
+            <ul>
+              <li>Make scripts for interviews</li>
+              <li>Get guests to interview</li>
+              <li>Make logo</li>
+              <li>Edit and upload all episodes</li>
+              <li>Get sponsorships</li>
+              <li>Expose community events in social media</li>
+              <li>Make community posts</li>
+            </ul>
+            
+          </div>
+          <div>
+            <h3><em>Si no son enchiladas podcast</em>,
+              Host
+              </h3>
+              <span class="tenure">2020-03 — Present</span>
+              <span class="location">CDMX, México</span>
+            <p></p>
+            <ul>
+              <li>Make scripts for interviews</li>
+              <li>Make logo</li>
+              <li>Edit and upload all episodes</li>
+            </ul>
+            
+          </div>
+      </section>
+
+      
 
       
       <hr>
@@ -401,18 +589,21 @@ header > span.fa {
           </header>
           <div>
           <h3><em><a href="https://medium.com/@ricardo_pcan/el-porque-las-pruebas-unitarias-no-sirven-d77981e61bae">El porque las pruebas unitarias no sirven</a></em>,
+      
             Medium</h3>
             <span class="tenure">2017</span>
             
           </div>
           <div>
           <h3><em><a href="https://medium.com/@ricardo_pcan/la-diferencia-entre-rake-y-rails-deb3e8a2d6e6">La diferencia entre rake y rails</a></em>,
+      
             Medium</h3>
             <span class="tenure">2017</span>
             
           </div>
           <div>
           <h3><em><a href="https://medium.com/@ricardo_pcan/un-paso-obligado-para-ser-un-desarrollador-pro-e81daa5bb6d9">Un paso obligado para ser un desarrollador ‘Pro’</a></em>,
+      
             Medium</h3>
             <span class="tenure">2017</span>
             
@@ -449,8 +640,8 @@ header > span.fa {
 
       
 
-      
 
-    </div>
-  </main>
+
+    </main>
+  </body>
 </html>

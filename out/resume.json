@@ -1,34 +1,77 @@
 {
   "basics": {
-    "name": "Ricardo Alberto Pérez Candelas",
-    "label": "FullStack Developer",
-    "summary": "**Full-stack software developer with 4+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books.",
-    "website": "http://richartl.github.io/",
+    "label": "Site Reliability Engineer II",
+    "characterClass": "Software developer, DevOps practitioner and podcast lover",
+    "quote": "My mind == universe, infinite and always in expantion",
+    "website": "https://ricardoperezcandelas.com/",
     "phone": "5568583198",
-    "email": "ricardo.pcan@gmail.com",
+    "email": "me@ricardoperezcandelas.com",
+    "other": [
+      {
+        "label": "Personal Email",
+        "flavor": "email",
+        "value": "ricardo.pcan@gmail.com"
+      }
+    ],
+    "name": "Ricardo Alberto Pérez Candelas",
+    "summary": "**Site Reliability Engineer, Full-stack software developer with 5+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books.",
     "profiles": [
       {
         "network": "Github",
         "username": "ricardo-pcan",
-        "url": "https://github.com/ricardo-pcan"
+        "url": "https://github.com/richartl"
       },
       {
         "network": "Twitter",
         "username": "ricardo_pcan",
-        "url": "https://twitter.com/ricardo_pcan"
+        "url": "https://twitter.com/elrichartl"
       },
       {
         "network": "Medium",
         "username": "ricardo_pcan",
         "url": "https://medium.com/@ricardo_pcan"
+      },
+      {
+        "network": "Instagram",
+        "username": "elrichartl",
+        "url": "https://www.instagram.com/elrichartl/"
       }
     ]
   },
   "work": [
     {
+      "company": "Wizeline",
+      "position": "Site Reliability Engineer II",
+      "startDate": "2019-09",
+      "summary": "Making and follow DevOps practices and culture",
+      "highlights": [
+        "Work with internationa team remotly",
+        "First one DevOpsDays in Mexico 2020 core-organizer",
+        "Contribute to internal projects",
+        "Estudy GCP and AWS proffessional certifications",
+        "DevOps practitioner"
+      ]
+    },
+    {
+      "company": "Nimanic",
+      "position": "Team Leader",
+      "startDate": "2018-03",
+      "endDate": "2019-09",
+      "summary": "Software Team Leader Engineer and Cloud Operator",
+      "highlights": [
+        "Learn internet of things protocols and communication",
+        "Start with Agile practices",
+        "Learn startup cycle and releases",
+        "Start implementation of continuous delivery and deployment",
+        "Migration of all production environment from Heroku to AWS",
+        "Implement high availability"
+      ]
+    },
+    {
       "company": "Mellow Consulting",
       "position": "Team Leader",
       "startDate": "2017-09",
+      "endDate": "2018-03",
       "summary": "Tech Team leader at Mellow Consulting, leading an 8 people team",
       "highlights": [
         "Lead a tech team of 8 people",
@@ -138,7 +181,18 @@
         "DigitalOcean",
         "Docker",
         "Docker Compose",
-        "Ci/CD"
+        "Ci/CD",
+        "Jenkins",
+        "Gitlab",
+        "Bitbucket",
+        "GCP",
+        "Kubernetes",
+        "Makisu project",
+        "Helm",
+        "Harness",
+        "Jenkins",
+        "Pipelines",
+        "Terraform"
       ]
     },
     {
@@ -186,12 +240,22 @@
   ],
   "interests": [
     {
+      "name": "Podcaster",
+      "summary": "I am fan of the podcast format and I made some about DevOps culture and self-improvement",
+      "keywords": [
+        "Enchiladas DevOps",
+        "Si no son enchiladas"
+      ]
+    },
+    {
       "name": "Reading",
       "summary": "I am fan to historic novels, entrepreneur, personal growth and biographies",
       "keywords": [
         "Julio Verne",
         "Elon Musk",
-        "El Azteca"
+        "El Azteca",
+        "The Phoenix Project",
+        "Escipion"
       ]
     },
     {

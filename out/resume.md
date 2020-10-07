@@ -1,23 +1,42 @@
 Ricardo Alberto Pérez Candelas
 ============
-Email: ricardo.pcan@gmail.com
+Email: me@ricardoperezcandelas.com
 Tel: 5568583198
-Web: http://richartl.github.io/
+Web: https://ricardoperezcandelas.com/
 
-**Full-stack software developer with 4+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books.
+**Site Reliability Engineer, Full-stack software developer with 5+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books.
 
 ## SKILLS
 
   - Web: JavaScript HTML 5 CSS MVC REST 
   - JavaScript: Node.js jQuery Bootstrap React.js Backbone.js React Native 
   - Database: MySQL PostgreSQL NoSQL ORM 
-  - DevOps: AWS DigitalOcean Docker Docker Compose Ci/CD 
+  - DevOps: AWS DigitalOcean Docker Docker Compose Ci/CD Jenkins Gitlab Bitbucket GCP Kubernetes Makisu project Helm Harness Jenkins Pipelines Terraform 
   - Backend: REST JSON API Design Patterns TDD 
   - Project: Agile GitHub Teamwork Leader Gitflow Github Flow 
 
 ## EMPLOYMENT
 
-### *Team Leader*, Mellow Consulting (2017-09 — Present)
+### *Site Reliability Engineer II*, Wizeline (2019-09 — Present)
+
+Making and follow DevOps practices and culture
+  - Work with internationa team remotly
+  - First one DevOpsDays in Mexico 2020 core-organizer
+  - Contribute to internal projects
+  - Estudy GCP and AWS proffessional certifications
+  - DevOps practitioner
+
+### *Team Leader*, Nimanic (2018-03 — 2019-09)
+
+Software Team Leader Engineer and Cloud Operator
+  - Learn internet of things protocols and communication
+  - Start with Agile practices
+  - Learn startup cycle and releases
+  - Start implementation of continuous delivery and deployment
+  - Migration of all production environment from Heroku to AWS
+  - Implement high availability
+
+### *Team Leader*, Mellow Consulting (2017-09 — 2018-03)
 
 Tech Team leader at Mellow Consulting, leading an 8 people team
   - Lead a tech team of 8 people
@@ -57,17 +76,22 @@ Trainee developer, I participated on Ruby on Rails projects with PostgreSQL and 
 
 ## PROJECTS
 
+### *Site Reliability Engineer*, Exemplar (2019-11 — Present)
+
+My team and I were in charge to made a devops transformation in a fintech company, we builded poc and implementations of DevOps practices and tools to change software development and deployment process
+We need to analyze, plan and implement DevOps best practices such CI/CD, make pipelines and use Continuous deployment tools
+
 ### *Tech Leader and Backend Developer*, Creator API (2017-04 — 2017-08)
 
 RESTFUL API with microservices architecture, build on ruby, python and docker containers
 Product for build interactive lessons for kids with multimedia resources from Youtube, Khan Academy Lite, Wikipedia, Red Magsiterial, Google Images
 
-### *Devops and backend developer*, [khan-lite-backend](http://api.khan.vincolabs.com/swagger/dist/index.html?url=/api/v1/docs) (2017-06 — 2017-06)
+### *Devops and backend developer*, [khan-lite-backend](http://api.khan.vincolabs.com/swagger/dist/index.html?url=/api/v1/docs) (2017-06)
 
 Khan Academy Lite API
 Microservice for serve resources from Khan Academy Lite installation, build with ruby and docker containers
 
-### *Devops and backend developer*, wiki-download (2017-06 — 2017-06)
+### *Devops and backend developer*, wiki-download (2017-06)
 
 Microsevice for download pdf from Wikipedia article
 Microservice for serve pdf from Wikipedia article, build with python and docker containers
@@ -77,7 +101,7 @@ Microservice for serve pdf from Wikipedia article, build with python and docker 
 RESTFUL API for Grubertek Admin and App
 RESTFUL API for Grubertek
 
-### *Developer*, SudoVerbs (2017-05 — 2017-05)
+### *Developer*, SudoVerbs (2017-05)
 
 Bash Console Utility for learn english verbs
 Bash console utility for learn english verbs
@@ -111,20 +135,47 @@ Branch on Software Development
 
 ## WRITING
 
-### [El porque las pruebas unitarias no sirven](https://medium.com/@ricardo_pcan/el-porque-las-pruebas-unitarias-no-sirven-d77981e61bae) (2017-01)
+### ***[El porque las pruebas unitarias no sirven](https://medium.com/@ricardo_pcan/el-porque-las-pruebas-unitarias-no-sirven-d77981e61bae)*** (Medium, 2017-01)
+
+
+### ***[La diferencia entre rake y rails](https://medium.com/@ricardo_pcan/la-diferencia-entre-rake-y-rails-deb3e8a2d6e6)*** (Medium, 2017-01)
+
+
+### ***[Un paso obligado para ser un desarrollador ‘Pro’](https://medium.com/@ricardo_pcan/un-paso-obligado-para-ser-un-desarrollador-pro-e81daa5bb6d9)*** (Medium, 2017-01)
 
 
 
-### [La diferencia entre rake y rails](https://medium.com/@ricardo_pcan/la-diferencia-entre-rake-y-rails-deb3e8a2d6e6) (2017-01)
 
 
 
-### [Un paso obligado para ser un desarrollador ‘Pro’](https://medium.com/@ricardo_pcan/un-paso-obligado-para-ser-un-desarrollador-pro-e81daa5bb6d9) (2017-01)
+## EXTRACURRICULAR
 
+### Organizer / Speaker, Docker Meetup CDMX (2017-03 — Present)
 
+- Monthly speaker on docker meet
+- Free Docker Courses organizer and speaker
 
+### Core Organizer, DevOpsDays Guadalajara Mexico 2020 (2020-03 — Present)
 
+- The First one event like this in Mexico
+- Get sponsorships
+- Made community events to get more exposure
 
+### Enchiladas DevOps Podcast, Co-Host (2019-12 — Present)
+
+- Make scripts for interviews
+- Get guests to interview
+- Make logo
+- Edit and upload all episodes
+- Get sponsorships
+- Expose community events in social media
+- Make community posts
+
+### Si no son enchiladas podcast, Host (2020-03 — Present)
+
+- Make scripts for interviews
+- Make logo
+- Edit and upload all episodes
 
 
 ## SPEAKING
@@ -132,9 +183,11 @@ Branch on Software Development
 ### *ReactJS Basic Course*,  (2017)
 
 
+
   - I teached to 10 people the first steps to ReactJS
 
 ### *Docker Basic Course*, Docker Meetup Course CDMX (2017)
+
 
 
   - I spoke front of 100 people teaching the first steps to Docker technology
@@ -143,7 +196,10 @@ Branch on Software Development
 
 ## INTERESTS
 
-- READING: Julio Verne Elon Musk El Azteca 
+- PODCASTER: Enchiladas DevOps Si no son enchiladas 
+I am fan of the podcast format and I made some about DevOps culture and self-improvement
+
+- READING: Julio Verne Elon Musk El Azteca The Phoenix Project Escipion 
 I am fan to historic novels, entrepreneur, personal growth and biographies
 
 - FLAG FOOTBALL

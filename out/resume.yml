@@ -3,20 +3,39 @@ meta:
   format: FRESH@0.6.0
   version: 0.4.0
 info:
-  label: 'FullStack Developer'
-  characterClass: 'Programmer and DevOps'
-  brief: '**Full-stack software developer with 4+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books.'
+  label: 'Site Reliability Engineer II'
+  characterClass: 'Software developer, DevOps practitioner and podcast lover'
+  brief: '**Site Reliability Engineer, Full-stack software developer with 5+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books.'
   quote: 'My mind == universe, infinite and always in expantion'
 contact:
-  website: 'http://richartl.github.io/'
+  website: 'https://ricardoperezcandelas.com/'
   phone: '5568583198'
-  email: ricardo.pcan@gmail.com
+  email: me@ricardoperezcandelas.com
   other:
     -
       label: 'Personal Email'
       flavor: email
       value: ricardo.pcan@gmail.com
 projects:
+  -
+    title: Exemplar
+    category: 'commercial, fintech'
+    role: 'Site Reliability Engineer'
+    description: 'My team and I were in charge to made a devops transformation in a fintech company, we builded poc and implementations of DevOps practices and tools to change software development and deployment process'
+    start: 2019-11
+    summary: 'We need to analyze, plan and implement DevOps best practices such CI/CD, make pipelines and use Continuous deployment tools'
+    keywords:
+      - Jenkins
+      - OKTA
+      - AWS
+      - GCP
+      - Docker
+      - Kubernetes
+      - Terraform
+      - Harness
+      - 'New Relic'
+      - CI
+      - CD
   -
     title: 'Creator API'
     category: commercial
@@ -152,25 +171,87 @@ social:
     label: Github
     network: Github
     user: ricardo-pcan
-    url: 'https://github.com/ricardo-pcan'
+    url: 'https://github.com/richartl'
   -
     label: Twitter
     network: Twitter
     user: ricardo_pcan
-    url: 'https://twitter.com/ricardo_pcan'
+    url: 'https://twitter.com/elrichartl'
   -
     label: Medium
     network: Medium
     user: ricardo_pcan
     url: 'https://medium.com/@ricardo_pcan'
+  -
+    label: Instagram
+    network: Instagram
+    user: elrichartl
+    url: 'https://www.instagram.com/elrichartl/'
 employment:
-  summary: '4+ years industry IT and software development experience.'
+  summary: '5+ years industry IT, software development experience and now DevOps practitioner.'
   history:
+    -
+      employer: Wizeline
+      position: 'Site Reliability Engineer II'
+      summary: 'Making and follow DevOps practices and culture'
+      start: 2019-09
+      keywords:
+        - Docker
+        - Kubernetes
+        - DevOps
+        - Terraform
+        - AWS
+        - GCP
+        - Organizer
+        - SCRUM
+        - Jenkins
+        - Harness
+        - Gitlab
+        - Ruby
+        - Bash
+        - Groovy
+      highlights:
+        - 'Work with internationa team remotly'
+        - 'First one DevOpsDays in Mexico 2020 core-organizer'
+        - 'Contribute to internal projects'
+        - 'Estudy GCP and AWS proffessional certifications'
+        - 'DevOps practitioner'
+    -
+      employer: Nimanic
+      position: 'Team Leader'
+      summary: 'Software Team Leader Engineer and Cloud Operator'
+      start: 2018-03
+      end: 2019-09
+      keywords:
+        - Ruby
+        - MQTT
+        - Lead
+        - Heroku
+        - AWS
+        - Telematics
+        - Jenkins
+        - SCRUM
+        - 'React Native'
+        - PHP
+        - AWS
+        - 'Node,js'
+        - React.JS
+        - Redux
+        - Workflow
+        - CI/CD
+      highlights:
+        - 'Learn internet of things protocols and communication'
+        - 'Start with Agile practices'
+        - 'Learn startup cycle and releases'
+        - 'Start implementation of continuous delivery and deployment'
+        - 'Migration of all production environment from Heroku to AWS'
+        - 'Implement high availability'
     -
       employer: 'Mellow Consulting'
       position: 'Team Leader'
       summary: 'Tech Team leader at Mellow Consulting, leading an 8 people team'
       start: 2017-09
+      end: 2018-03
       keywords:
         - Agile
         - Lead
@@ -313,6 +394,17 @@ skills:
         - Docker
         - 'Docker Compose'
         - Ci/CD
+        - Jenkins
+        - Gitlab
+        - Bitbucket
+        - GCP
+        - Kubernetes
+        - 'Makisu project'
+        - Helm
+        - Harness
+        - Jenkins
+        - Pipelines
+        - Terraform
     -
       name: Backend
       level: Advanced
@@ -420,12 +512,51 @@ extracurricular:
   -
     title: 'Organizer / Speaker'
     activity: 'Docker Meetup CDMX'
-    location: 'Ciudad de México, México'
+    location: 'CDMX, México'
     start: 2017-03
     highlights:
       - 'Monthly speaker on docker meet'
       - 'Free Docker Courses organizer and speaker'
+  -
+    title: 'Core Organizer'
+    activity: 'DevOpsDays Guadalajara Mexico 2020'
+    location: 'Guadalajara, México'
+    start: 2020-03
+    url: 'https://devopsdays.org/events/2020-guadalajara/welcome/'
+    highlights:
+      - 'The First one event like this in Mexico'
+      - 'Get sponsorships'
+      - 'Made community events to get more exposure'
+  -
+    title: 'Enchiladas DevOps Podcast'
+    activity: Co-Host
+    location: 'CDMX, México'
+    start: 2019-12
+    url: 'https://enchiladasdevops.com'
+    highlights:
+      - 'Make scripts for interviews'
+      - 'Get guests to interview'
+      - 'Make logo'
+      - 'Edit and upload all episodes'
+      - 'Get sponsorships'
+      - 'Expose community events in social media'
+      - 'Make community posts'
+  -
+    title: 'Si no son enchiladas podcast'
+    activity: Host
+    location: 'CDMX, México'
+    start: 2020-03
+    highlights:
+      - 'Make scripts for interviews'
+      - 'Make logo'
+      - 'Edit and upload all episodes'
 interests:
+  -
+    name: Podcaster
+    summary: 'I am fan of the podcast format and I made some about DevOps culture and self-improvement'
+    keywords:
+      - 'Enchiladas DevOps'
+      - 'Si no son enchiladas'
   -
     name: Reading
     summary: 'I am fan to historic novels, entrepreneur, personal growth and biographies'
@@ -433,6 +564,8 @@ interests:
       - 'Julio Verne'
       - 'Elon Musk'
       - 'El Azteca'
+      - 'The Phoenix Project'
+      - Escipion
   -
     name: 'Flag Football'
   -
