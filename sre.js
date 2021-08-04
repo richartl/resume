@@ -10,12 +10,12 @@
         "info": {
             "label": "Site Reliability Engineer II",
                 "characterClass": "Software developer, DevOps practitioner and podcast lover",
-                "brief": "**Site Reliability Engineer, Full-stack software developer with 5+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books.",
+                "brief": "**Site Reliability Engineer, Full-stack software developer with 5+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books, motorcycles and mechanics, I love cafe racer, brat and bobber style.",
                 "quote": "My mind == universe, infinite and always in expantion"
         },
 
         "contact": {
-            "website": "https://ricardoperezcandelas.com/",
+            "website": "https://medium.com/@elrichartl",
                 "phone": "5568583198",
                 "email": "me@ricardoperezcandelas.com",
                 "other": [
@@ -29,11 +29,12 @@
 
         "projects": [
             {
-                "title": "Exemplar",
+                "title": "Exemplar, Metis",
                 "category": "commercial, fintech",
                 "role": "Site Reliability Engineer",
                 "description": "My team and I were in charge to made a devops transformation in a fintech company, we builded poc and implementations of DevOps practices and tools to change software development and deployment process",
                 "start": "2019-11",
+                "end": "2021-07",
                 "summary": "We need to analyze, plan and implement DevOps best practices such CI/CD, make pipelines and use Continuous deployment tools",
                 "keywords": ["Jenkins", "OKTA", "AWS", "GCP", "Docker", "Kubernetes", "Terraform", "Harness", "New Relic", "CI", "CD"]
             },

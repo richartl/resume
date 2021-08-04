@@ -1,11 +1,11 @@
 Ricardo Alberto Pérez Candelas
 Email: me@ricardoperezcandelas.com
 Tel: 5568583198
-Web: https://ricardoperezcandelas.com/
+Web: https://medium.com/@elrichartl
 ================================================================================
 
 
-**Site Reliability Engineer, Full-stack software developer with 5+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books.
+**Site Reliability Engineer, Full-stack software developer with 5+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books, motorcycles and mechanics, I love cafe racer, brat and bobber style.
 
 
 SKILLS -------------------------------------------------------------------------
@@ -72,7 +72,7 @@ Trainee developer, I participated on Ruby on Rails projects with PostgreSQL and 
 
 PROJECTS -----------------------------------------------------------------------
 
-Exemplar, Site Reliability Engineer (2019-11 — Present)
+Exemplar, Metis, Site Reliability Engineer (2019-11 — 2021-07)
 My team and I were in charge to made a devops transformation in a fintech company, we builded poc and implementations of DevOps practices and tools to change software development and deployment process
 We need to analyze, plan and implement DevOps best practices such CI/CD, make pipelines and use Continuous deployment tools
 

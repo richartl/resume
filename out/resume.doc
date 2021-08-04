@@ -516,13 +516,13 @@
           </w:rPr>
           <w:t> - </w:t>
         </w:r>
-        <w:hlink w:dest="https://ricardoperezcandelas.com/">
+        <w:hlink w:dest="https://medium.com/@elrichartl">
           <w:r wsp:rsidRPr="003876BF">
             <w:rPr>
               <w:rStyle w:val="Hyperlink"/>
               <w:sz w:val="16"/>
             </w:rPr>
-            <w:t>https://ricardoperezcandelas.com/</w:t>
+            <w:t>https://medium.com/@elrichartl</w:t>
           </w:r>
         </w:hlink>
       </w:p>
@@ -530,7 +530,7 @@
         <w:pPr>
           <w:pStyle w:val="Summary"/>
         </w:pPr>
-        <w:r><w:rPr><w:b/></w:rPr><w:t>Site Reliability Engineer, Full-stack software developer with 5+ years industry experience</w:t></w:r><w:r><w:rPr></w:rPr><w:t> specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books.</w:t></w:r>
+        <w:r><w:rPr><w:b/></w:rPr><w:t>Site Reliability Engineer, Full-stack software developer with 5+ years industry experience</w:t></w:r><w:r><w:rPr></w:rPr><w:t> specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books, motorcycles and mechanics, I love cafe racer, brat and bobber style.</w:t></w:r>
       </w:p>
       <wx:sub-section>
   <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1545,7 +1545,7 @@
       </w:r>
       
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t>Exemplar</w:t>
+          <w:t>Exemplar, Metis</w:t>
         </w:r>
       
       <w:r wsp:rsidR="00EA0B64">
@@ -1555,7 +1555,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2019-11 — Present</w:t>
+        <w:t>2019-11 — 2021-07</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
