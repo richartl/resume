@@ -17,7 +17,18 @@ Web: https://medium.com/@elrichartl
 
 ## EMPLOYMENT
 
-### *Site Reliability Engineer II*, Wizeline (2019-09 — Present)
+### *Senior DevOps Engineer*, Globant (2022-01 — Present)
+
+Making and follow DevOps practices and culture
+  - Leadership
+  - DevOps practitioner
+
+### *Azure DevOps Senior*, Readymind (2021-07 — 2022-01)
+
+Making and follow DevOps practices and culture
+  - Team leader
+
+### *Site Reliability Engineer II*, Wizeline (2019-09 — 2021-07)
 
 Making and follow DevOps practices and culture
   - Work with internationa team remotly
@@ -75,6 +86,16 @@ Trainee developer, I participated on Ruby on Rails projects with PostgreSQL and 
 
 
 ## PROJECTS
+
+### *Site Reliability Engineer*, Itau Cuenta Digital (2022-01 — Present)
+
+I was in charge of give some solutions for automation and deployment almost 16 microservices and deal with 5 development teams, Cuenta Digital is an endeavour application to made an easy approach to have a bank account to Chilea people.
+In this project I had many chances to try and implement some technologies and solutions with previous research and presentation to my client's DevOps teams
+
+### *Site Reliability Engineer, DevOps Practitioner*, AbInbev DevOps Latam (2021-07 — 2022-01)
+
+I was in charge to promote and check DevOps practices into AbInbev organization and developer teams, we had to deal with almost 12 teams, product teams and DevOps teams from Global cell. As a DevOps practitioner I propose some technologies and practices such as Backstage and Agile
+My stance here was short although I learn too much about team management and deal with a Global team to adopt technical methologies, I learn more about soft skils such as speaking to many teams an deal deadlines though
 
 ### *Site Reliability Engineer*, Exemplar, Metis (2019-11 — 2021-07)
 
@@ -201,6 +222,9 @@ I am fan of the podcast format and I made some about DevOps culture and self-imp
 
 - READING: Julio Verne Elon Musk El Azteca The Phoenix Project Escipion 
 I am fan to historic novels, entrepreneur, personal growth and biographies
+
+- MOTORCYCLE CUSTOMIZATION SHOP: Cafe Racer Brat Style Chopper Bobber 
+I like so much old-school motorcycles and I have a little shop where I can customize them, destroy them, restore them and I start again
 
 - FLAG FOOTBALL
 

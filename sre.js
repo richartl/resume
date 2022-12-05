@@ -8,7 +8,7 @@
         },
 
         "info": {
-            "label": "Site Reliability Engineer II",
+            "label": "Site Reliability Engineer & Senior DevOps Practitioner",
                 "characterClass": "Software developer, DevOps practitioner and podcast lover",
                 "brief": "**Site Reliability Engineer, Full-stack software developer with 5+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books, motorcycles and mechanics, I love cafe racer, brat and bobber style.",
                 "quote": "My mind == universe, infinite and always in expantion"
@@ -28,6 +28,25 @@
         },
 
         "projects": [
+            {
+                "title": "Itau Cuenta Digital",
+                "category": "commercial, fintech",
+                "role": "Site Reliability Engineer",
+                "description": "I was in charge of give some solutions for automation and deployment almost 16 microservices and deal with 5 development teams, Cuenta Digital is an endeavour application to made an easy approach to have a bank account to Chilea people.",
+                "start": "2022-01",
+                "summary": "In this project I had many chances to try and implement some technologies and solutions with previous research and presentation to my client's DevOps teams",
+                "keywords": ["Jenkins", "AWS", "Docker", "Kubernetes", "Terraform", "Prometheus", "CI", "CD", "Gitlab", "Api Connect", "Ownership"]
+            },
+            {
+                "title": "AbInbev DevOps Latam",
+                "category": "commercial, brewery",
+                "role": "Site Reliability Engineer, DevOps Practitioner",
+                "description": "I was in charge to promote and check DevOps practices into AbInbev organization and developer teams, we had to deal with almost 12 teams, product teams and DevOps teams from Global cell. As a DevOps practitioner I propose some technologies and practices such as Backstage and Agile",
+                "start": "2021-07",
+                "end": "2022-01",
+                "summary": "My stance here was short although I learn too much about team management and deal with a Global team to adopt technical methologies, I learn more about soft skils such as speaking to many teams an deal deadlines though",
+                "keywords": ["Azure DevOps", "Backstage", "Leadership", "Ownership", "Self-management", "Team management"]
+            },
             {
                 "title": "Exemplar, Metis",
                 "category": "commercial, fintech",
@@ -155,10 +174,33 @@
 
                 "history": [
                     {
+                        "employer": "Globant",
+                        "position": "Senior DevOps Engineer",
+                        "summary": "Making and follow DevOps practices and culture",
+                        "start": "2022-01",
+                        "keywords": ["Docker","Kubernetes","DevOps","Terraform","AWS","Jenkins","Gitlab","Ruby","Bash","Groovy", "Prometheus"],
+                        "highlights": [
+                            "Leadership",
+                            "DevOps practitioner"
+                        ]
+                    },
+                    {
+                        "employer": "Readymind",
+                        "position": "Azure DevOps Senior",
+                        "summary": "Making and follow DevOps practices and culture",
+                        "start": "2021-07",
+                        "end": "2022-01",
+                        "keywords": ["Docker","Kubernetes","DevOps","Terraform","Azure","Azure Pipelines","Gitlab","Bash","Groovy"],
+                        "highlights": [
+                            "Team leader"
+                        ]
+                    },
+                    {
                         "employer": "Wizeline",
                         "position": "Site Reliability Engineer II",
                         "summary": "Making and follow DevOps practices and culture",
                         "start": "2019-09",
+                        "end": "2021-07",
                         "keywords": ["Docker","Kubernetes","DevOps","Terraform","AWS","GCP","Organizer","SCRUM","Jenkins","Harness","Gitlab","Ruby","Bash","Groovy"],
                         "highlights": [
                             "Work with internationa team remotly",
@@ -487,6 +529,11 @@
                 "name": "Reading",
                 "summary": "I am fan to historic novels, entrepreneur, personal growth and biographies",
                 "keywords": [ "Julio Verne", "Elon Musk", "El Azteca", "The Phoenix Project", "Escipion"]
+            },
+            {
+                "name": "Motorcycle Customization Shop",
+                "summary": "I like so much old-school motorcycles and I have a little shop where I can customize them, destroy them, restore them and I start again",
+                "keywords": ["Cafe Racer", "Brat Style", "Chopper", "Bobber"]
             },
             {
                 "name": "Flag Football"

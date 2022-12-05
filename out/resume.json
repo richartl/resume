@@ -1,6 +1,6 @@
 {
   "basics": {
-    "label": "Site Reliability Engineer II",
+    "label": "Site Reliability Engineer & Senior DevOps Practitioner",
     "characterClass": "Software developer, DevOps practitioner and podcast lover",
     "quote": "My mind == universe, infinite and always in expantion",
     "website": "https://medium.com/@elrichartl",
@@ -40,9 +40,30 @@
   },
   "work": [
     {
+      "company": "Globant",
+      "position": "Senior DevOps Engineer",
+      "startDate": "2022-01",
+      "summary": "Making and follow DevOps practices and culture",
+      "highlights": [
+        "Leadership",
+        "DevOps practitioner"
+      ]
+    },
+    {
+      "company": "Readymind",
+      "position": "Azure DevOps Senior",
+      "startDate": "2021-07",
+      "endDate": "2022-01",
+      "summary": "Making and follow DevOps practices and culture",
+      "highlights": [
+        "Team leader"
+      ]
+    },
+    {
       "company": "Wizeline",
       "position": "Site Reliability Engineer II",
       "startDate": "2019-09",
+      "endDate": "2021-07",
       "summary": "Making and follow DevOps practices and culture",
       "highlights": [
         "Work with internationa team remotly",
@@ -256,6 +277,16 @@
         "El Azteca",
         "The Phoenix Project",
         "Escipion"
+      ]
+    },
+    {
+      "name": "Motorcycle Customization Shop",
+      "summary": "I like so much old-school motorcycles and I have a little shop where I can customize them, destroy them, restore them and I start again",
+      "keywords": [
+        "Cafe Racer",
+        "Brat Style",
+        "Chopper",
+        "Bobber"
       ]
     },
     {
