@@ -4,7 +4,7 @@ Email: me@ricardoperezcandelas.com
 Tel: 5568583198
 Web: https://medium.com/@elrichartl
 
-**Site Reliability Engineer, Full-stack software developer with 5+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books, motorcycles and mechanics, I love cafe racer, brat and bobber style.
+**Site Reliability Engineer, Full-stack software developer with 9+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books, motorcycles and mechanics, I love cafe racer, brat and bobber style.
 
 ## SKILLS
 
@@ -22,8 +22,13 @@ Web: https://medium.com/@elrichartl
 Making and follow DevOps practices and culture
   - Leadership
   - DevOps practitioner
+  - Containerization services
+  - Kubernetes
+  - Automation
+  - CI/CD
+  - AWS
 
-### *Azure DevOps Senior*, Readymind (2021-07 — 2022-01)
+### *DevOps Senior*, Readymind (2021-07 — 2022-01)
 
 Making and follow DevOps practices and culture
   - Team leader

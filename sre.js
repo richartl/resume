@@ -10,7 +10,7 @@
         "info": {
             "label": "Site Reliability Engineer & Senior DevOps Practitioner",
                 "characterClass": "Software developer, DevOps practitioner and podcast lover",
-                "brief": "**Site Reliability Engineer, Full-stack software developer with 5+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books, motorcycles and mechanics, I love cafe racer, brat and bobber style.",
+                "brief": "**Site Reliability Engineer, Full-stack software developer with 9+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books, motorcycles and mechanics, I love cafe racer, brat and bobber style.",
                 "quote": "My mind == universe, infinite and always in expantion"
         },
 
@@ -181,12 +181,17 @@
                         "keywords": ["Docker","Kubernetes","DevOps","Terraform","AWS","Jenkins","Gitlab","Ruby","Bash","Groovy", "Prometheus"],
                         "highlights": [
                             "Leadership",
-                            "DevOps practitioner"
+                            "DevOps practitioner",
+                            "Containerization services",
+                            "Kubernetes",
+                            "Automation",
+                            "CI/CD",
+                            "AWS"
                         ]
                     },
                     {
                         "employer": "Readymind",
-                        "position": "Azure DevOps Senior",
+                        "position": "DevOps Senior",
                         "summary": "Making and follow DevOps practices and culture",
                         "start": "2021-07",
                         "end": "2022-01",

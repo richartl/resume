@@ -14,7 +14,7 @@
       }
     ],
     "name": "Ricardo Alberto Pérez Candelas",
-    "summary": "**Site Reliability Engineer, Full-stack software developer with 5+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books, motorcycles and mechanics, I love cafe racer, brat and bobber style.",
+    "summary": "**Site Reliability Engineer, Full-stack software developer with 9+ years industry experience** specializing in back-end development and devops. Born and raised in Texcoco, Mexico State, I enjoy playing and following college football and flag football, amateur guitar and drums player, mindfull and successfull books, motorcycles and mechanics, I love cafe racer, brat and bobber style.",
     "profiles": [
       {
         "network": "Github",
@@ -46,12 +46,17 @@
       "summary": "Making and follow DevOps practices and culture",
       "highlights": [
         "Leadership",
-        "DevOps practitioner"
+        "DevOps practitioner",
+        "Containerization services",
+        "Kubernetes",
+        "Automation",
+        "CI/CD",
+        "AWS"
       ]
     },
     {
       "company": "Readymind",
-      "position": "Azure DevOps Senior",
+      "position": "DevOps Senior",
       "startDate": "2021-07",
       "endDate": "2022-01",
       "summary": "Making and follow DevOps practices and culture",
